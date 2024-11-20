@@ -1,4 +1,6 @@
 # Netflix
+![logo 12](https://github.com/user-attachments/assets/89eedf6e-07a1-4c69-b5af-edf9bd8da31b)
+
 Hello there I'M Thilak, I have created a Netflix project which involves analyzing a dataset of Netflix content, providing insights the analysis aims to explore trends in the Netflix catalog, identify popular content categories, and uncover patterns in content releases over time.
 The dataset was analyzed using SQL, and multiple queries were written to extract meaningful insights and facilitate decision-making regarding content strategy and preferences.
 
